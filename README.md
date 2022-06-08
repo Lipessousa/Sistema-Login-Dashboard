@@ -1,4 +1,4 @@
-<h4 align="center" width=10px>
+<h4 align="center" width=10>
   <img src="https://github.com/Lipessousa/Sistema-Login-Dashboard/blob/main/images/meta_coin.png"/>
 </h4>
 
