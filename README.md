@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-Projeto com tela de login e Dashboard, na qual a partir do momento que você cadastra seu usuario, esses dados são direcionados para o banco de dados (MySQL), dando acesso ao CRUD. Obejetivo do CRUD é cadastrar, editar e deletar dados que também são direcionados a um segundo banco de dados. Projeto feito com fins educativos. 
+Projeto com tela de login e Dashboard. Projeto feito com fins educativos. 
 
 OBS: ao criar a tabela de usuarios no banco, o campo de password deve ter um VARCHAR de 200(por conta da criptografia de senha)
 
