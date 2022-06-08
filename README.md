@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src="https://github.com/Lipessousa/Sistema-Login-Dashboard/blob/main/images/meta_coin.png"/>
+  <img src="https://github.com/Lipessousa/Sistema-Login-Dashboard/blob/main/images/meta_coin.png" alt="logo" height="200"/>
 </h4>
 
 <h1 align="center">
